@@ -1,0 +1,14 @@
+{
+  "name": "line-calling-bot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0",
+    "moment": "^2.29.3",
+    "tedious": "^14.4.0"
+  }
+}
