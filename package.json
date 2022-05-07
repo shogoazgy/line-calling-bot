@@ -7,8 +7,13 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "@azure/communication-calling": "^1.4.4",
+    "@azure/communication-common": "^2.0.0",
     "@line/bot-sdk": "^7.5.0",
     "moment": "^2.29.3",
     "tedious": "^14.4.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
   }
 }
